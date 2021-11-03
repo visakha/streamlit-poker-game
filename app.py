@@ -4,6 +4,12 @@ from treys import Deck
 from treys import Evaluator
 
 
+# credits
+# Treys python package
+# https://github.com/ihendley/treys
+# StreamLit - statefull webapp
+# https://blog.streamlit.io/session-state-for-streamlit/
+
 def app():
     # INIT
     st.title('Poker play')
