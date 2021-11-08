@@ -14,7 +14,7 @@ https://blog.streamlit.io/session-state-for-streamlit/
 
 # Screenshot
 
-![pkr-img-01.png](docs/pkr-img-01.png)
+![pkr-img-01.png](docs/pkr-img-01-old.png)
 
 # This is still in the works,
 
